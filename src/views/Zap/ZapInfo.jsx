@@ -103,7 +103,7 @@ function ZapInfo({ tokens, address }) {
                 <Trans>All-in-one easy staking</Trans>
               </Typography>
               <Typography align="left" variant="body2" className="oly-info-body">
-                <Trans>OlyZap reduces complexity, saves you time and keeps you here on Olympus.</Trans>
+                <Trans>OlyZap reduces complexity, saves you time and keeps you here on Colonia.</Trans>
               </Typography>
             </Box>
           </Grid>
@@ -130,7 +130,7 @@ function ZapInfo({ tokens, address }) {
               </Typography>
               <Typography align="left" variant="body2" className="oly-info-body">
                 <Trans>
-                  Staking is the primary value accrual strategy of Olympus. When you stake, you lock OHM and receive an
+                  Staking is the primary value accrual strategy of Colonia. When you stake, you lock OHM and receive an
                   equal amount of sOHM.
                 </Trans>
               </Typography>
@@ -141,7 +141,7 @@ function ZapInfo({ tokens, address }) {
           <Button
             variant="outlined"
             color="secondary"
-            href="https://docs.olympusdao.finance/main/"
+            href="https://docs.Coloniadao.finance/main/"
             target="_blank"
             className="learn-more-button"
             onClick={() => {

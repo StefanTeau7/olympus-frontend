@@ -647,7 +647,7 @@
     {
         "inputs": [
             {
-                "internalType": "enum OlympusBondDepository.PARAMETER",
+                "internalType": "enum ColoniaBondDepository.PARAMETER",
                 "name": "_parameter",
                 "type": "uint8"
             },

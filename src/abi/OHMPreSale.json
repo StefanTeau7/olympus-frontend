@@ -1,7 +1,7 @@
 {
   "_format": "hh-sol-artifact-1",
   "contractName": "OHMPreSale",
-  "sourceName": "contracts/sale/olympus/presale/OHMPresale.sol",
+  "sourceName": "contracts/sale/Colonia/presale/OHMPresale.sol",
   "abi": [
     {
       "inputs": [

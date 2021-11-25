@@ -185,7 +185,7 @@ function Stake() {
                   <Link
                     className="migrate-sohm-button"
                     style={{ textDecoration: "none" }}
-                    href="https://docs.olympusdao.finance/using-the-website/migrate"
+                    href="https://docs.Coloniadao.finance/using-the-website/migrate"
                     aria-label="migrate-sohm"
                     target="_blank"
                   >
@@ -301,14 +301,14 @@ function Stake() {
                                 <>
                                   <Trans>First time staking</Trans> <b>OHM</b>?
                                   <br />
-                                  <Trans>Please approve Olympus Dao to use your</Trans> <b>OHM</b>{" "}
+                                  <Trans>Please approve Colonia Dao to use your</Trans> <b>OHM</b>{" "}
                                   <Trans>for staking</Trans>.
                                 </>
                               ) : (
                                 <>
                                   <Trans>First time unstaking</Trans> <b>sOHM</b>?
                                   <br />
-                                  <Trans>Please approve Olympus Dao to use your</Trans> <b>sOHM</b>{" "}
+                                  <Trans>Please approve Colonia Dao to use your</Trans> <b>sOHM</b>{" "}
                                   <Trans>for unstaking</Trans>.
                                 </>
                               )}

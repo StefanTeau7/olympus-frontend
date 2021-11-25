@@ -1,7 +1,7 @@
 {
   "_format": "hh-sol-artifact-1",
-  "contractName": "OlympusStaking",
-  "sourceName": "contracts/dispersals/profits/OlympusStaking.sol",
+  "contractName": "ColoniaStaking",
+  "sourceName": "contracts/dispersals/profits/ColoniaStaking.sol",
   "abi": [
     {
       "anonymous": false,

@@ -139,7 +139,7 @@ function OhmMenu() {
 
                 <Box component="div" className="data-links">
                   <Divider color="secondary" className="less-margin" />
-                  <Link href={`https://dune.xyz/shadow/Olympus-(OHM)`} target="_blank" rel="noreferrer">
+                  <Link href={`https://dune.xyz/shadow/Colonia-(OHM)`} target="_blank" rel="noreferrer">
                     <Button size="large" variant="contained" color="secondary" fullWidth>
                       <Typography align="left">
                         Shadow's Dune Dashboard <SvgIcon component={ArrowUpIcon} htmlColor="#A3A3A3" />
@@ -217,7 +217,7 @@ function OhmMenu() {
 
                 <Divider color="secondary" />
                 <Link
-                  href="https://docs.olympusdao.finance/using-the-website/unstaking_lp"
+                  href="https://docs.Coloniadao.finance/using-the-website/unstaking_lp"
                   target="_blank"
                   rel="noreferrer"
                 >

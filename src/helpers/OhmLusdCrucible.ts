@@ -17,7 +17,7 @@ export const calcAludelDetes = async (networkID: NetworkID, provider: StaticJson
   ) as OhmLusdCrucible;
   const aludelData = await aludelContract.getAludelData();
   // getting contractAddresses & Pricing for calculations below
-  let ohmPrice = await getTokenPrice("olympus");
+  let ohmPrice = await getTokenPrice("Colonia");
   let ohmContractAddress = addresses[networkID].OHM_ADDRESS.toLowerCase();
 
   let lusdPrice = await getTokenPrice("liquity-usd");
